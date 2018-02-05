@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(240, 240, 240);
+}
+
+.App {
+  text-align: center;
+}
+.Title {
+  text-align: center;
+}
+
+.TitleInput {
+  height: 30px;
+  width: 500px;
+}
+
+.YearInput {
+  height: 30px;
+  width: 50px;
+}
+
+.App > button {
+  background-color: maroon;
+  height: 35px;
+  width: 60px;
+  border: none;
+  color: white;
+  text-decoration: none;
+}
+
+.SearchResults {
+  text-align: left;
+}
+
+span {
+  padding: 5px;
+}
